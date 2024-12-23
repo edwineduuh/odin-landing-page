@@ -39,6 +39,7 @@ body{
     justify-content: space-around;
     margin-top: 44px;
     padding: 68px;
+
 }
 .hero-main{
     width: 38vw;
@@ -63,22 +64,34 @@ button{
     border-radius: 4px;
     font-size: 18px;
 }
+.main-section{
+    padding: 60px;
+}
 .main-section h1{
-    
     text-align: center;
-}
-
-.main-content{
-    display: flex;
-    justify-content: center;
-    flex-direction: row;
-    gap: 48px;
-}
-
-.main-content-img{
-    display: flex;
 }
 
 .main-content p{
     width: 200px;
+}
+.image-container{
+    margin-top: 120px;
+    display: flex;
+    justify-content: center;
+    gap: 48px;
+}
+.image-container img{
+    border-radius: 10px;
+    width: 200px;
+    height: auto;
+    border: 10px solid #3882f6;
+}
+.quote{
+    background-color: #e5e7eb;
+    padding: 20px;
+    
+}
+.quote p{
+    font-size: 36px;
+    padding: 136px;
 }
