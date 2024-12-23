@@ -94,4 +94,26 @@ button{
 .quote p{
     font-size: 36px;
     padding: 136px;
+    font-style: italic;
+    color: #1f2937;
+    font-weight: lighter;
+}
+.blue-div{
+    display: flex;
+    background-color: #3882f6;
+    width: 65vw;
+    margin: 0 auto;
+    padding:40px 80px;
+    margin-top: 80px;
+    gap: 100px;
+    border-radius: 12px;
+    color: #f9faf8;
+}
+.blue-div h3{
+    font-size: 40px;
+}
+
+.sign-up{
+    border: 2px solid #f9faf8;
+    border-radius: 8px;
 }
