@@ -110,10 +110,18 @@ button{
     color: #f9faf8;
 }
 .blue-div h3{
-    font-size: 40px;
+    font-size: 30px;
 }
 
 .sign-up{
     border: 2px solid #f9faf8;
     border-radius: 8px;
+}
+
+.footer{
+    margin-top: 80px;
+    background-color: #1f2937;
+    color: #f9faf8;
+    text-align: center;
+    padding: 42px 0;
 }
