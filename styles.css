@@ -63,3 +63,22 @@ button{
     border-radius: 4px;
     font-size: 18px;
 }
+.main-section h1{
+    
+    text-align: center;
+}
+
+.main-content{
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    gap: 48px;
+}
+
+.main-content-img{
+    display: flex;
+}
+
+.main-content p{
+    width: 200px;
+}
